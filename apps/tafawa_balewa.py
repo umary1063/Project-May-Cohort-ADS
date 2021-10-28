@@ -2,7 +2,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-
+import xlrd as x
 def app():
     st.title('Tafawa Balewa LGA')
     # In[3]:
