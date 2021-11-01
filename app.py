@@ -4,7 +4,7 @@ from apps import alkaleri, bogoro, bauchi, dass, kirfi, tafawa_balewa,toro
 app = MultiApp()
 
 st.markdown("""
-# DHIS2 Data & Service Gap Analysis
+# IHP-Bauchi Embedded Office Supported Health Facilities DHIS2 Data & Service Delivery Validation Triggers
 """)
 
 # Add all your application here
