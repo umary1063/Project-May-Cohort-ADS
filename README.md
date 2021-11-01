@@ -11,5 +11,7 @@ Python Libraries used for this project: Pandas and Streamlit
 
 
 
+Jupyter Notebooks are also in this repo for review..
 
 APP LINK https://share.streamlit.io/umary1063/project-may-cohort-ads/main/app.py
+
