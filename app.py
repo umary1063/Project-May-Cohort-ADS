@@ -7,7 +7,7 @@ st.markdown("""
 # District Health Information System-2 Data Validation Triggers for Selected Health Facilities in Bauchi State
 """)
 
-st.write("This project presents a table that shows a set of additional validation triggers for monthly health facility service delivery DATA submitted on the DHIS2 Nigeria instance. Antenetal services, postnetal services, immunization services, labor and delivery services, family planning and malaria services are among the services provided.")
+st.write("This project presents tables by Local Government Areas that shows a set of additional validation triggers for monthly health facility service delivery DATA submitted on the DHIS2 Nigeria instance. Antenetal services, postnetal services, immunization services, labor and delivery services, family planning and malaria services are among the services provided.")
 
 # Add all your application here
 app.add_app("Alkaleri LGA gap analysis", alkaleri.app)
