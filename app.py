@@ -7,6 +7,8 @@ st.markdown("""
 # IHP-Bauchi Embedded Office Supported Health Facilities DHIS2 Data & Service Delivery Validation Triggers
 """)
 
+st.write("This project presents a table that shows a set of additional validation triggers for monthly health facility service delivery DATA submitted on the DHIS2 Nigeria instance. Antenetal services, postnetal services, immunization services, labor and delivery services, family planning and malaria services are among the services provided.")
+
 # Add all your application here
 app.add_app("Alkaleri LGA gap analysis", alkaleri.app)
 app.add_app("Bogoro LGA gap analysis", bogoro.app)
